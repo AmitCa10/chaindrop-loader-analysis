@@ -1,0 +1,48 @@
+{
+  "loaders": [
+    {
+      "distribution_path": "IDE source checkout",
+      "sha256": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
+      "bytes": 11017,
+      "payload_name": "math_init.js",
+      "features": {
+        "bun_1_3_13": true,
+        "installed_bun_executes_payload": true,
+        "platform_architecture_mapping": true,
+        "internal_zip_fallback": true,
+        "temporary_download_cleanup": true,
+        "ci_skip_absent": true
+      }
+    },
+    {
+      "distribution_path": "npm package",
+      "sha256": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
+      "bytes": 29918,
+      "payload_name": "Math_Symbol.js",
+      "features": {
+        "bun_1_3_13": true,
+        "installed_bun_executes_payload": true,
+        "platform_architecture_mapping": true,
+        "internal_zip_fallback": true,
+        "temporary_download_cleanup": true,
+        "ci_skip_absent": true
+      }
+    }
+  ],
+  "published_loader_hashes_match": true,
+  "second_stage": {
+    "byte_identical": true,
+    "sha256": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+    "published_hash_matches": true,
+    "bytes": 727680
+  },
+  "shared_behavior": {
+    "bun_1_3_13": true,
+    "installed_bun_executes_payload": true,
+    "platform_architecture_mapping": true,
+    "internal_zip_fallback": true,
+    "temporary_download_cleanup": true,
+    "ci_skip_absent": true
+  },
+  "semantic_match": true
+}

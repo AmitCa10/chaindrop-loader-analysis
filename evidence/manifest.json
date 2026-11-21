@@ -1,0 +1,29 @@
+{
+  "handling": "Local research evidence only. Do not execute or publish raw or decoded malware.",
+  "artifacts": [
+    {
+      "path": "ide/setup.mjs",
+      "source": "https://raw.githubusercontent.com/jaredwray/keyv/d8c850c7800e514d582741a1f852b61122c31213/.claude/setup.mjs",
+      "sha256": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb",
+      "bytes": 11017
+    },
+    {
+      "path": "npm/setup.mjs",
+      "source": "https://raw.githubusercontent.com/jaredwray/keyv/ee2681a9b62f3637b0eb5133c36c864d3376cc5b/core/keyv/setup.mjs",
+      "sha256": "54dc7ea54a1317cca0e890a2770630cf7fa6c97813e0cb9d2caa93012b350668",
+      "bytes": 29918
+    },
+    {
+      "path": "ide/math_init.js",
+      "source": "https://raw.githubusercontent.com/jaredwray/keyv/d8c850c7800e514d582741a1f852b61122c31213/.claude/math_init.js",
+      "sha256": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+      "bytes": 727680
+    },
+    {
+      "path": "npm/Math_Symbol.js",
+      "source": "https://raw.githubusercontent.com/jaredwray/keyv/ee2681a9b62f3637b0eb5133c36c864d3376cc5b/core/keyv/Math_Symbol.js",
+      "sha256": "9fc2570b7cef51c1b8df116d144d11ff4096357be7d2c4c6367cfc2509cf1bcc",
+      "bytes": 727680
+    }
+  ]
+}
